@@ -1,1 +1,3 @@
 This is another simple text file designed for HW1
+
+I edited this line in to show that I can make commits in here too!
